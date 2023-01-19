@@ -1,1 +1,2 @@
-# Solution to tasks on Sorting algorithms
+# Sorting algorithms
+Team Task
